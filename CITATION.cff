@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Da Prato"
+  given-names: "Gaia"
+  orcid: "https://orcid.org/0009-0002-5825-214X"
+- family-names: "Yu"
+  given-names: "Yong"
+  orcid: "https://orcid.org/0000-0002-0012-3751"
+- family-names: "Bode"
+  given-names: "Ronald"
+  orcid: ""
+- family-names: "Groeblacher"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0003-3932-7820"
+title: "VectorMagnet by GroeblacherLab"
+version: 1.0.0
+doi: 10.5281/zenodo.16402514
+date-released: 2025-07-24
+url: "https://github.com/GroeblacherLab/VectorMagnet"
