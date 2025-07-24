@@ -15,6 +15,6 @@ authors:
   orcid: "https://orcid.org/0000-0003-3932-7820"
 title: "VectorMagnet by GroeblacherLab"
 version: 1.0.0
-doi: 10.5281/zenodo.16402514
+doi: https://doi.org/10.5281/zenodo.16404661
 date-released: 2025-07-24
 url: "https://github.com/GroeblacherLab/VectorMagnet"
