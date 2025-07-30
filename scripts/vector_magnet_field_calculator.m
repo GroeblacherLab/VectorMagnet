@@ -37,7 +37,7 @@ bobx = Bobbin(   4, 21.7, 24-0.5, 0.143, 0.15);
 boby = Bobbin(   4, 23.5,   24-1,  0.13, 0.15);
 bobz = Bobbin(   4, 20-2, 12-0.5,  0.14, 0.15);
 
-% Optimized bobbins if fully winded, larger heigth, epoxy considered
+% Optimized bobbins if fully winded, larger height, epoxy considered
 % %             r_in, r_ex,   h,     t,    p
 % bobx = Bobbin(   4,   29,  40, 0.143, 0.15); %design values: 4, 29, 24, 0.127, 0.127
 % boby = Bobbin(   4,   35,  40,  0.13, 0.15); %design values: 4, 35, 24, 0.127, 0.127
